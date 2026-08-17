@@ -15,7 +15,7 @@ Everything here is open. Take it, fork it, make it sound like you.
 
 Things I use most weeks, published so you can use them too.
 
-| | |
+| Tool | What it does |
 |---|---|
 | [**carousel-studio**](https://github.com/ninabrenes/carousel-studio) | Turn a newsletter, post, or transcript into on-brand carousel slides and infographics. Preview the feed grid, download post-ready PNGs. No design tool, no API key, and nothing leaves your machine. |
 | [**ai-operations-skills**](https://github.com/ninabrenes/ai-operations-skills) | Ten skills for the decisions that come before the prompt. What to automate first, who owns what, and whether a process is worth building at all. |
@@ -31,7 +31,7 @@ Both install into Claude Code in one line:
 
 Smaller builds, each showing one pattern worth stealing.
 
-| | |
+| Build | The pattern |
 |---|---|
 | [**claude-ops-agent**](https://github.com/ninabrenes/claude-ops-agent) | Operations triage with a human approval gate before anything consequential happens. |
 | [**maker-checker-pipeline**](https://github.com/ninabrenes/maker-checker-pipeline) | Two agents, scored evaluation, a feedback loop, capped revisions. Quality control that terminates. |
