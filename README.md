@@ -27,6 +27,21 @@ Both install into Claude Code in one line:
 /plugin marketplace add ninabrenes/ai-operations-skills
 ```
 
+## Websites
+
+Design and build, end to end. Next.js, TypeScript, Tailwind, scroll-driven
+motion, deployed on Vercel. Bilingual where the audience needs it.
+
+Client source is private, so the live site is the portfolio. Happy to walk
+through the code on a call.
+
+| Site | What it is |
+|---|---|
+| [**theharmonylabs.com**](https://theharmonylabs.com) | My studio. AI operations implementation, with web design as the second offer. Bilingual, English at the root and Spanish for LATAM. |
+| [**ninaverse.blog**](https://ninaverse.blog) | Personal site. Writing, the lab, the newsletter, a visual diary. Dark editorial, MDX, custom typography. |
+| [**lideraconfi.com**](https://lideraconfi.com) | Leadership consultancy for the Costa Rica contact-center and BPO world. Two audiences on one story, plus an ADKAR readiness quiz. |
+| [**mayidbrenes.com**](https://mayidbrenes.com) | Practice site for a Costa Rican attorney and notary, 30 years in public law and energy. Includes a severance calculator built for prospective clients. |
+
 ## Systems
 
 Smaller builds, each showing one pattern worth stealing.
